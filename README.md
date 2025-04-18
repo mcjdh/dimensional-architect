@@ -30,17 +30,33 @@ The main loop advances one turn at a time. Each turn includes:
 - Python 3.x
 - colorama
 - rich
-
 ## Game Guide
 
-- Gather initial resources to unlock **First Harvest** and gain an early Energy boost ⚡
-- Construct **Settlements** and **Farms** to increase population and enable additional actions 👥
-- Accumulate specified amounts of **Metal**, **Food**, **Technology**, and **Light** to trigger achievements (e.g., **Metal Tycoon**, **Food Sovereign**) 🥇
-- Build a **Technology Lab** to enhance technology production and unlock higher-level achievements 🔬
-- Complete random **missions** for additional population or resource rewards 🎲
-- Unlock all achievements and construct the **Dimensional Gate** to reach the end state 🚀
+- Gather initial resources to unlock **First Harvest**  
+    • Gain an early Energy boost ⚡
 
----
+- Construct core buildings:  
+    • **Settlements**  
+        – Increases population and available actions 👥  
+    • **Farms**  
+        – Secures your Food supply 🌾
+
+- Accumulate resources to trigger achievements:  
+    • **Metal Tycoon**: 300 Metal 🥇  
+    • **Food Sovereign**: 200 Food 🍽️  
+    • **Resource Hoarder**: 1,000 Light 💡
+
+- Build a **Technology Lab** to:  
+    • Enhance Technology production  
+    • Unlock higher‑level achievements
+
+- Complete random **missions** for bonus rewards:  
+    • Additional population boosts  
+    • Extra resource grants 🎲
+
+- Final objective:  
+    • Unlock all achievements  
+    • Construct the **Dimensional Gate** 🚀
 
 ## Achievements
 
